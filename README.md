@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @voverux
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming (T-SQL, .Net Framework, .Net Core, C#, Desktop, ASP, MVC, WebAPI, MinimalAPI, HTML, CSS, JavaScript).
 - 🌱 I’m currently learning .Net Core 6/7
 
 <!---
